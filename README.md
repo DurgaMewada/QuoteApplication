@@ -26,6 +26,10 @@
     <img src = "https://github.com/DurgaMewada/quote_app/assets/149373536/e9e802c1-d675-4e64-abf3-6b45fd694abc" width=22% height=35% >
     <img src = "https://github.com/DurgaMewada/quote_app/assets/149373536/20531a6d-f0a1-4e6d-bc4b-0e157d6d5912" width=22% height=35% >
 
+
+https://github.com/DurgaMewada/quote_app/assets/149373536/e1ae6f3d-9cfc-4c14-9464-281090c0bff4
+
+
 A new Flutter project.
 
 ## Getting Started
